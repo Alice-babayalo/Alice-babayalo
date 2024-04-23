@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alice-babayalo
+# Hi there👋, I’m Alice-babayalo
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Backend software Engineering and cyber security
 - 💞️ I’m looking to collaborate on ....
