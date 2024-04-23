@@ -1,5 +1,5 @@
 # Hi there👋, I’m Alice-babayalo
-##- 👀 I’m interested a backend software developer
+## 👀 I’m interested a backend software developer
 - 🌱 I’m currently learning Backend software Engineering and cyber security
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me:
